@@ -48,4 +48,5 @@ View mapped job skills → [Skills Matrix](Skills-Matrix.md)
 
 Contact Information:
 LinkedIn: [https://www.linkedin.com/in/ralph-collum-49b6b415]
+
 Email: [ralph@trainingconcepts.com]
