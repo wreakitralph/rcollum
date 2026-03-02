@@ -1,8 +1,8 @@
 Ralph Collum – IT & Cybersecurity Portfolio
 
-Welcome to my professional IT portfolio.  
+Welcome to my professional IT portfolio.   
 
-This repository showcases hands-on labs, technical projects, and real-world job skills I have developed while studying Information Technology, Networking, Cloud Computing, and Cybersecurity.
+This repository showcases hands-on labs, technical projects, and real-world job skills I have developed while studying Information Technology, Networking, Cloud Computing, and Cybersecurity. Thank you for viewing my repository.
 
 Career Objective:
 Aspiring IT Support / Network / Cloud / Cybersecurity professional seeking an entry-level role where I can apply troubleshooting, system administration, and security skills.
