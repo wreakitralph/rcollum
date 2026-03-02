@@ -38,7 +38,7 @@ Cloud Infrastructure Lab:
 Security Monitoring Lab:
 - Captured packets using Wireshark
 - Identified suspicious traffic patterns
-➡️ [View Project](Projects/Security-Lab)
+➡️ [View Project](Projects/Security-Labs)
 
 Certifications:
 See full list here → [Certifications](Certifications/certifications.md)
