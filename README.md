@@ -41,10 +41,10 @@ Security Monitoring Lab:
 ➡️ [View Project](Projects/Security-Labs)
 
 Certifications:
-See full list here → [Certifications](Certifications/certifications.md)
+See full list here ➡️ [Certifications](Certifications/certifications.md)
 
 Skills Matrix:
-View mapped job skills → [Skills Matrix](Skills-Matrix.md)
+View mapped job skills ➡️ [Skills Matrix](Skills-Matrix.md)
 
 Contact Information:
 LinkedIn: [https://www.linkedin.com/in/ralph-collum-49b6b415]
