@@ -50,6 +50,7 @@ Resume:
 View my resume ➡️ [Resume](Resume/Ralph_Collum_Resume.pdf)
 
 Contact Information:
+
 LinkedIn: [https://www.linkedin.com/in/ralph-collum-49b6b415]
 
 Email: [ralph@trainingconcepts.com]
