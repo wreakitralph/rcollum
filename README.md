@@ -47,7 +47,8 @@ Skills Matrix:
 View mapped job skills ➡️ [Skills Matrix](Skills-Matrix.md)
 
 Resume:
-View my resume ➡️ (Resume/Ralph_Collum_Resume.pdf)
+View my resume ➡️ [Resume](Resume/Ralph_Collum_Resume.pdf)
+
 Contact Information:
 LinkedIn: [https://www.linkedin.com/in/ralph-collum-49b6b415]
 
