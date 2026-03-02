@@ -33,7 +33,7 @@ Cloud Infrastructure Lab:
 - Deployed virtual machines in Azure
 - Configured network security groups
 - Implemented identity access control
-➡️ [View Project]([Project/Cloud-Labs])
+➡️ [View Project]([Projects/Cloud-Labs])
 
 Security Monitoring Lab:
 - Captured packets using Wireshark
