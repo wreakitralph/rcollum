@@ -49,6 +49,13 @@ View mapped job skills ➡️ [Skills Matrix](Skills-Matrix.md)
 Resume:
 View my resume ➡️ [Resume](Resume/Ralph_Collum_Resume.pdf)
 
+## 📧 Contact Information
+
+Should you have any questions, opportunities, or want to connect, please don't hesitate to contact me: 
+
+- **Email**: [ralph@trainingconcepts.com.com](mailto:ralph@trainingconcepts.com)
+- **LinkedIn**: [Ralph Collum](https://www.linkedin.com/in/ralph-collum-49b6b415)
+
 Contact Information:
 
 LinkedIn: [https://www.linkedin.com/in/ralph-collum-49b6b415]
