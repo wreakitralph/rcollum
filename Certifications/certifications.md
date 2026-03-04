@@ -21,6 +21,11 @@ This document outlines the professional certifications I have earned and those I
 - Mobile device support
 - Virtualization basics
 
+**Applied Projects:**
+- Workstation Deployment Guide
+- Network Troubleshooting Case Studies
+- Windows Security Hardening Project
+  
 ---
 
 ## In Progress Certifications
