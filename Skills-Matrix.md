@@ -11,7 +11,7 @@
 
 This matrix documents my technical competencies, proficiency level, and applied experience.
 
-Proficiency Levels:
+Proficiency Levels:  
 1 – Basic Understanding  
 2 – Working Knowledge  
 3 – Independent Execution  
