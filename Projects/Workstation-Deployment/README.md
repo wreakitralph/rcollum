@@ -1,6 +1,6 @@
 Enterprise Workstation Deployment and Security Configuration
 
-Install Windows 10/11 in a Virtual Machine
+Install Windows 10/11 in a Virtual Machine:
 - Configure users and permissions
 - Apply Updates
 - Enable Bitlocker
@@ -9,4 +9,15 @@ Install Windows 10/11 in a Virtual Machine
 - Document process
 
 
+Skills Demonstrated:
+- OS Installation
+- Driver Management
+- Patch Management
+- User Account Management
+- Basic Endpoint Security
 
+
+Job Role Alignment:
+- IT Support Technician
+- Desktop Support
+- Help Desk Analyst
