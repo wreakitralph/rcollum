@@ -1,9 +1,10 @@
 Enterprise Workstation Deployment and Security Configuration
 
-Install Windows 10/11 in a Virtual Machine:
+Install Windows 10/11 in a Virtual Machine for business usage:
+- Disk Configuration (Partitioning and Formatting)
 - Configure users and permissions
-- Apply Updates
-- Enable Bitlocker
+- Apply Updates (OS, Driver, and Application Updates)
+- Enable Bitlocker (Setup and Configuration)
 - Configure Windows Defender
 - Install productivity software
 - Document process
