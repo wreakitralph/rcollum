@@ -55,9 +55,3 @@ Should you have any questions, opportunities, or want to connect, please don't h
 
 - **Email**: [ralph@trainingconcepts.com.com](mailto:ralph@trainingconcepts.com)
 - **LinkedIn**: [Ralph Collum](https://www.linkedin.com/in/ralph-collum-49b6b415)
-
-Contact Information:
-
-LinkedIn: [https://www.linkedin.com/in/ralph-collum-49b6b415]
-
-Email: [ralph@trainingconcepts.com]
