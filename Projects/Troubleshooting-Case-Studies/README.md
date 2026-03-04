@@ -15,6 +15,8 @@ Reconfigured DNS settings.
 Lessons Learned:
 Importance of verifying DHCP assignment.
 
+
+
 Problem: 
 Computer randomly restarts.
 
@@ -29,6 +31,8 @@ Replaced failing power supply unit (PSU).
 
 Lessons Learned: 
 Always check hardware stability and power delivery when reboots occur without error messages.
+
+
 
 Problem: 
 User cannot print to network printer.
@@ -45,6 +49,8 @@ Updated and reinstalled corrupted printer driver.
 Lessons Learned: 
 Driver corruption is a common cause of printer issues.
 
+
+
 Problem: 
 Slow boot time.
 
@@ -59,6 +65,8 @@ Disabled unnecessary startup applications and removed malware.
 
 Lessons Learned: 
 Startup management and malware scans are essential for performance troubleshooting.
+
+
 
 Problem: 
 User account locked out.
@@ -75,6 +83,8 @@ Reset password and unlocked account.
 Lessons Learned: 
 Understand account lockout thresholds to prevent repeated lockouts.
 
+
+
 Problem: 
 External monitor not displaying.
 
@@ -89,6 +99,8 @@ Replaced faulty HDMI cable.
 
 Lessons Learned: 
 Always check physical connections before software troubleshooting.
+
+
 
 Problem: 
 System displays Blue Screen error.
@@ -105,6 +117,8 @@ Updated outdated network adapter driver.
 Lessons Learned: 
 Driver updates resolve many BSOD issues.
 
+
+
 Problem: 
 Web browser redirects to unknown sites.
 
@@ -119,6 +133,8 @@ Removed malicious extension and reset browser settings.
 
 Lessons Learned: 
 Browser extensions can introduce security risks.
+
+
 
 Problem: 
 USB drive not recognized.
@@ -135,6 +151,8 @@ Assigned a drive letter in Disk Management.
 Lessons Learned: 
 Some drives require manual letter assignment.
 
+
+
 Problem: 
 VPN connection fails.
 
@@ -149,6 +167,8 @@ Corrected incorrect VPN server configuration.
 
 Lessons Learned: 
 Configuration errors often mimic credential failures.
+
+
 
 Problem: 
 Windows updates fail to install.
@@ -165,6 +185,8 @@ Reset Windows Update components.
 Lessons Learned: 
 System services must function properly for updates to install.
 
+
+
 Problem: 
 No sound from speakers.
 
@@ -179,6 +201,8 @@ Selected correct default playback device.
 
 Lessons Learned: 
 Always verify output device settings before reinstalling drivers.
+
+
 
 Problem: 
 Laptop battery drains quickly.
