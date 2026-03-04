@@ -1,3 +1,5 @@
+## Troubleshooting Case Studies
+
 Problem:
 User cannot connect to Wi-Fi.
 
