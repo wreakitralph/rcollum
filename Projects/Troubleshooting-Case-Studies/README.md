@@ -1,222 +1,371 @@
-## Troubleshooting Case Studies
+# 🛠️ Troubleshooting Case Studies
+_A collection of real-world IT support scenarios demonstrating structured troubleshooting methodology._
 
-Problem:
-User cannot connect to Wi-Fi.
+---
 
-Symptoms:
-Limited connectivity, no internet.
+## 📶 Case Study 01 – Wi-Fi Connectivity Failure
 
-Diagnostic Steps:
-Checked IP configuration.
-Tested gateway ping.
-Reset adapter.
+**Category:** Networking  
+**Environment:** Windows 11 Workstation  
 
-Resolution:
-Reconfigured DNS settings.
+### 🔍 Problem
+User unable to connect to Wi-Fi.
 
-Lessons Learned:
-Importance of verifying DHCP assignment.
+### ⚠️ Symptoms
+- Limited connectivity  
+- No internet access  
 
+### 🧪 Diagnostic Process
+1. Checked IP configuration using `ipconfig /all`
+2. Tested gateway connectivity with `ping`
+3. Reset wireless network adapter
 
+### ✅ Resolution
+Reconfigured DNS settings to obtain automatically via DHCP.
 
-Problem: 
-Computer randomly restarts.
+### 📘 Lessons Learned
+Always verify DHCP assignment and DNS configuration before escalating.
 
-Symptoms: 
-System reboots without warning. No error message displayed.
+---
 
-Diagnostic Steps:
-Checked Event Viewer logs. Monitored CPU temperature. Ran memory diagnostics. Inspected power supply connections.
+## 🔌 Case Study 02 – Random System Reboots
 
-Resolution: 
-Replaced failing power supply unit (PSU).
+**Category:** Hardware / Power  
+**Environment:** Desktop Workstation  
 
-Lessons Learned: 
-Always check hardware stability and power delivery when reboots occur without error messages.
+### 🔍 Problem
+Computer randomly restarts without warning.
 
+### ⚠️ Symptoms
+- Sudden reboot  
+- No error message  
 
+### 🧪 Diagnostic Process
+1. Reviewed Event Viewer logs  
+2. Monitored CPU temperature  
+3. Ran Windows Memory Diagnostics  
+4. Inspected PSU connections  
 
-Problem: 
-User cannot print to network printer.
+### ✅ Resolution
+Replaced failing Power Supply Unit (PSU).
 
-Symptoms: 
-Print jobs stuck in queue. Printer shows “Ready.”
+### 📘 Lessons Learned
+Unexpected reboots often indicate power delivery or hardware instability issues.
 
-Diagnostic Steps:
-Restarted print spooler service. Cleared print queue. Verified printer IP address. Reinstalled printer driver.
+---
 
-Resolution: 
+## 🖨️ Case Study 03 – Network Printer Failure
+
+**Category:** Peripherals / Networking  
+
+### 🔍 Problem
+User unable to print to network printer.
+
+### ⚠️ Symptoms
+- Print jobs stuck in queue  
+- Printer status shows “Ready”  
+
+### 🧪 Diagnostic Process
+1. Restarted Print Spooler service  
+2. Cleared print queue  
+3. Verified printer IP address  
+4. Reinstalled printer driver  
+
+### ✅ Resolution
 Updated and reinstalled corrupted printer driver.
 
-Lessons Learned: 
-Driver corruption is a common cause of printer issues.
+### 📘 Lessons Learned
+Driver corruption is a common cause of persistent printer issues.
 
+---
 
+## 🚀 Case Study 04 – Slow Boot Performance
 
-Problem: 
-Slow boot time.
+**Category:** Performance / Security  
 
-Symptoms: 
+### 🔍 Problem
 System takes over 8 minutes to load desktop.
 
-Diagnostic Steps:
-Checked startup programs in Task Manager. Reviewed disk health. Checked available disk space. Scanned for malware.
+### ⚠️ Symptoms
+- Extended boot time  
+- Delayed application loading  
 
-Resolution: 
+### 🧪 Diagnostic Process
+1. Reviewed startup programs in Task Manager  
+2. Checked disk health  
+3. Verified available disk space  
+4. Performed malware scan  
+
+### ✅ Resolution
 Disabled unnecessary startup applications and removed malware.
 
-Lessons Learned: 
-Startup management and malware scans are essential for performance troubleshooting.
+### 📘 Lessons Learned
+Startup management and malware detection significantly impact system performance.
 
+---
 
+## 🔐 Case Study 05 – Account Lockout
 
-Problem: 
-User account locked out.
+**Category:** Identity & Access Management  
 
-Symptoms: 
-“Account locked” message after login attempts.
+### 🔍 Problem
+User account locked after failed login attempts.
 
-Diagnostic Steps:
-Verified account status in Local Users and Groups. Reviewed lockout policy. Checked Event Viewer security logs.
+### ⚠️ Symptoms
+- “Account locked” message  
 
-Resolution: 
+### 🧪 Diagnostic Process
+1. Reviewed Local Users and Groups  
+2. Checked lockout policy  
+3. Analyzed Security logs in Event Viewer  
+
+### ✅ Resolution
 Reset password and unlocked account.
 
-Lessons Learned: 
-Understand account lockout thresholds to prevent repeated lockouts.
+### 📘 Lessons Learned
+Understanding account lockout thresholds prevents recurring incidents.
 
+---
 
+---
 
-Problem: 
+## 🖥️ Case Study 06 – External Monitor Not Displaying
+
+**Category:** Hardware / Display  
+**Environment:** Windows Laptop with HDMI Output  
+
+### 🔍 Problem
 External monitor not displaying.
 
-Symptoms: 
-Laptop screen works; external monitor shows “No Signal.”
+### ⚠️ Symptoms
+- Laptop screen functions normally  
+- External monitor displays “No Signal”  
 
-Diagnostic Steps:
-Checked cable connection. Tested alternate HDMI cable. Verified display settings. Updated graphics drivers.
+### 🧪 Diagnostic Process
+1. Checked HDMI cable connection  
+2. Tested alternate HDMI cable  
+3. Verified display settings (Extend/Duplicate)  
+4. Updated graphics drivers  
 
-Resolution: 
+### ✅ Resolution
 Replaced faulty HDMI cable.
 
-Lessons Learned: 
-Always check physical connections before software troubleshooting.
+### 📘 Lessons Learned
+Always verify physical connections before beginning software troubleshooting.
 
+---
 
+## 💻 Case Study 07 – Blue Screen of Death (BSOD)
 
-Problem: 
+**Category:** Operating System / Drivers  
+
+### 🔍 Problem
 System displays Blue Screen error.
 
-Symptoms: 
-BSOD with driver-related error code.
+### ⚠️ Symptoms
+- BSOD with driver-related error code  
 
-Diagnostic Steps:
-Booted into Safe Mode. Reviewed minidump files. Updated device drivers. Ran SFC scan.
+### 🧪 Diagnostic Process
+1. Booted into Safe Mode  
+2. Reviewed minidump files  
+3. Updated device drivers  
+4. Ran `sfc /scannow`  
 
-Resolution: 
+### ✅ Resolution
 Updated outdated network adapter driver.
 
-Lessons Learned: 
-Driver updates resolve many BSOD issues.
+### 📘 Lessons Learned
+Outdated or incompatible drivers are a common cause of system instability.
 
+---
 
+## 🌐 Case Study 08 – Browser Redirect Malware
 
-Problem: 
-Web browser redirects to unknown sites.
+**Category:** Security / Malware  
 
-Symptoms: 
-Pop-ups and homepage changes.
+### 🔍 Problem
+Web browser redirects to unknown websites.
 
-Diagnostic Steps:
-Checked browser extensions. Ran anti-malware scan. Reviewed proxy settings. Cleared browser cache.
+### ⚠️ Symptoms
+- Unexpected pop-ups  
+- Homepage changes without user action  
 
-Resolution: 
-Removed malicious extension and reset browser settings.
+### 🧪 Diagnostic Process
+1. Reviewed installed browser extensions  
+2. Ran anti-malware scan  
+3. Checked proxy settings  
+4. Cleared browser cache  
 
-Lessons Learned: 
-Browser extensions can introduce security risks.
+### ✅ Resolution
+Removed malicious browser extension and reset browser settings.
 
+### 📘 Lessons Learned
+Browser extensions can introduce security vulnerabilities and persistent redirects.
 
+---
 
-Problem: 
-USB drive not recognized.
+## 🔎 Case Study 09 – USB Drive Not Recognized
 
-Symptoms: 
-Device does not appear in File Explorer.
+**Category:** Storage / Peripheral Devices  
 
-Diagnostic Steps:
-Checked Device Manager. Opened Disk Management. Tested different USB port. Updated USB controller drivers.
+### 🔍 Problem
+USB drive not recognized by system.
 
-Resolution: 
+### ⚠️ Symptoms
+- Device does not appear in File Explorer  
+
+### 🧪 Diagnostic Process
+1. Checked Device Manager for detection  
+2. Opened Disk Management  
+3. Tested alternate USB ports  
+4. Updated USB controller drivers  
+
+### ✅ Resolution
 Assigned a drive letter in Disk Management.
 
-Lessons Learned: 
-Some drives require manual letter assignment.
+### 📘 Lessons Learned
+Removable storage devices may require manual drive letter assignment before becoming accessible.
 
+---
 
+## 🔐 Case Study 10 – VPN Connection Failure
 
-Problem: 
-VPN connection fails.
+**Category:** Networking / Remote Access  
 
-Symptoms: 
-“Authentication failed” message.
+### 🔍 Problem
+VPN connection fails to authenticate.
 
-Diagnostic Steps:
-Verified internet connectivity. Checked username/password. Reviewed VPN server address. Confirmed date/time settings.
+### ⚠️ Symptoms
+- “Authentication failed” error message  
 
-Resolution: 
+### 🧪 Diagnostic Process
+1. Verified internet connectivity  
+2. Confirmed username and password  
+3. Reviewed VPN server address configuration  
+4. Checked system date and time synchronization  
+
+### ✅ Resolution
 Corrected incorrect VPN server configuration.
 
-Lessons Learned: 
-Configuration errors often mimic credential failures.
+### 📘 Lessons Learned
+Configuration errors often mimic credential failures; verify connection settings before resetting passwords.
 
+---
 
+## 🔄 Case Study 11 – Windows Updates Failing
 
-Problem: 
+**Category:** Operating System Maintenance  
+
+### 🔍 Problem
 Windows updates fail to install.
 
-Symptoms: 
-Update stuck at 0% with error code.
+### ⚠️ Symptoms
+- Update stuck at 0%  
+- Displays system error code  
 
-Diagnostic Steps:
-Restarted Windows Update service. Checked disk space. Ran Windows Update Troubleshooter. Cleared update cache.
+### 🧪 Diagnostic Process
+1. Restarted Windows Update service  
+2. Verified sufficient disk space  
+3. Ran Windows Update Troubleshooter  
+4. Cleared Windows Update cache  
 
-Resolution: 
+### ✅ Resolution
 Reset Windows Update components.
 
-Lessons Learned: 
-System services must function properly for updates to install.
+### 📘 Lessons Learned
+System services and background components must function properly for successful patch management.
 
+---
 
+## 🔊 Case Study 12 – No Audio Output
 
-Problem: 
+**Category:** Hardware / Drivers  
+
+### 🔍 Problem
 No sound from speakers.
 
-Symptoms: 
-Audio icon shows muted; no playback.
+### ⚠️ Symptoms
+- Audio icon visible  
+- No playback sound  
 
-Diagnostic Steps:
-Checked volume mixer. Verified correct playback device. Reinstalled audio drivers. Tested headphones.
+### 🧪 Diagnostic Process
+1. Checked volume mixer settings  
+2. Verified correct default playback device  
+3. Reinstalled audio drivers  
+4. Tested with external headphones  
 
-Resolution: 
+### ✅ Resolution
 Selected correct default playback device.
 
-Lessons Learned: 
-Always verify output device settings before reinstalling drivers.
+### 📘 Lessons Learned
+Always verify output device configuration before reinstalling drivers.
 
+---
 
+## 🔋 Case Study 13 – Rapid Battery Drain
 
-Problem: 
+**Category:** Hardware / Power Management  
+
+### 🔍 Problem
 Laptop battery drains quickly.
 
-Symptoms: 
-Battery lasts less than one hour.
+### ⚠️ Symptoms
+- Battery lasts less than one hour  
 
-Diagnostic Steps:
-Generated battery report. Checked power settings. Reviewed background applications. Updated BIOS.
+### 🧪 Diagnostic Process
+1. Generated battery report using `powercfg /batteryreport`  
+2. Reviewed power settings  
+3. Analyzed background applications  
+4. Updated BIOS  
 
-Resolution: 
+### ✅ Resolution
 Replaced degraded battery.
 
-Lessons Learned: 
-Battery health reports provide valuable lifecycle data.
+### 📘 Lessons Learned
+Battery health reports provide valuable lifecycle and degradation insights.
+
+--- 
+
+# 📊 Skills Demonstrated
+
+- Structured troubleshooting methodology  
+- Log analysis (Event Viewer)  
+- Network diagnostics  
+- Hardware diagnostics  
+- Driver management  
+- Malware remediation  
+- Windows system tools usage  
+- Root cause analysis  
+
+---
+
+# 🧠 Troubleshooting Methodology Used
+
+Each case study follows:
+
+1. Identify the problem  
+2. Establish theory  
+3. Test theory  
+4. Establish plan of action  
+5. Verify functionality  
+6. Document findings  
+
+(Aligned with CompTIA A+ troubleshooting framework)
+
+---
+
+# 🔎 Tools Utilized
+
+- `ipconfig`
+- `ping`
+- Event Viewer
+- Device Manager
+- Disk Management
+- Windows Memory Diagnostic
+- Task Manager
+- SFC Scan
+- Windows Update Troubleshooter
+
+## Troubleshooting Case Studies
+
+
