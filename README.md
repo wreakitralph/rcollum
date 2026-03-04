@@ -43,7 +43,7 @@ Security Monitoring Lab:
 ## 🎓 Certifications
 See full list here ➡️ [Certifications](Certifications/certifications.md)
 
-Skills Matrix:
+## 📊 Skills Matrix
 View mapped job skills ➡️ [Skills Matrix](Skills-Matrix.md)
 
 Resume:
