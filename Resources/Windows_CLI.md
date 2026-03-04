@@ -1,10 +1,11 @@
 Network Management Commands:  
+arp  
 ipconfig  
 netstat  
 route  
-arp  
 
 Network Troubleshooting Commands:  
+pathping
 ping  
 tracert  
-pathping  
+  
