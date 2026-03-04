@@ -12,10 +12,10 @@
 This matrix documents my technical competencies, proficiency level, and applied experience.
 
 Proficiency Levels:
-1 – Basic Understanding
-2 – Working Knowledge
-3 – Independent Execution
-4 – Advanced / Troubleshooting Depth
+1 – Basic Understanding  
+2 – Working Knowledge  
+3 – Independent Execution  
+4 – Advanced / Troubleshooting Depth  
 
 ---
 
