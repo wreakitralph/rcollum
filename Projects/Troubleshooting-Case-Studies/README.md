@@ -1,6 +1,7 @@
 # 🛠️ Troubleshooting Case Studies
 _A collection of real-world IT support scenarios demonstrating structured troubleshooting methodology._
 
+> These troubleshooting case studies reflect hands-on lab simulations and real-world IT support scenarios aligned with CompTIA A+ objectives.
 ---
 
 ## 📶 Case Study 01 – Wi-Fi Connectivity Failure
@@ -365,7 +366,4 @@ Each case study follows:
 - Task Manager
 - SFC Scan
 - Windows Update Troubleshooter
-
-## Troubleshooting Case Studies
-
 
