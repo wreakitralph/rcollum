@@ -7,7 +7,7 @@ This repository showcases hands-on labs, technical projects, and real-world job 
 Career Objective:
 Aspiring IT Support / Network / Cloud / Cybersecurity professional seeking an entry-level role where I can apply troubleshooting, system administration, and security skills.
 
-Technical Skills:
+## 🛠️ Technical Skills
 - Operating Systems: Windows, Linux (Ubuntu)
 - Networking: TCP/IP, DNS, DHCP, VLANs
 - Cloud: Microsoft Azure / AWS Fundamentals
@@ -15,7 +15,7 @@ Technical Skills:
 - Virtualization: VirtualBox / VMware
 - Tools: Git, Wireshark, PowerShell, Bash
 
-Featured Projects:
+## 📂 Featured Projects
 
 Workstation Deployment Guide:
 - Installed and configured Windows workstation
@@ -40,7 +40,7 @@ Security Monitoring Lab:
 - Identified suspicious traffic patterns
 ➡️ [View Project](Projects/Security-Labs)
 
-Certifications:
+## 🎓 Certifications
 See full list here ➡️ [Certifications](Certifications/certifications.md)
 
 Skills Matrix:
