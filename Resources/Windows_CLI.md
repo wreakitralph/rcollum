@@ -5,7 +5,7 @@ netstat
 route  
 
 Network Troubleshooting Commands:  
-pathping
+pathping  
 ping  
 tracert  
   
