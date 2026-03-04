@@ -7,7 +7,7 @@ This repository showcases hands-on labs, technical projects, and real-world job 
 ## 🎯 Career Objective
 Aspiring IT Support / Network / Cloud / Cybersecurity professional seeking an entry-level role where I can apply troubleshooting, system administration, and security skills.
 
-## 🎯 Targeted Roles
+## 🎯 Targeted Job Roles
 IT Support Specialist | Cloud Engineer | Network Administrator | Junior Systems Administrator | SOC Analyst
 
 ## 🛠️ Technical Skills
