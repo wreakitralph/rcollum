@@ -20,33 +20,28 @@ IT Support Specialist | Cloud Engineer | Network Administrator | Junior Systems 
 
 ## 📂 Featured Projects
 
-Workstation Deployment Guide:
+Workstation Deployment Guide:➡️ [View Project](Projects/Workstation-Deployment)
 - Installed and configured Windows workstation
 - Applied security hardening
 - Created user accounts and permissions
-➡️ [View Project](Projects/Workstation-Deployment)
 
-Network Configuration Lab:
+Network Configuration Lab:➡️ [View Project](Projects/Network-Configuration)
 - Built small office network
 - Configured IP addressing and routing
 - Tested connectivity and troubleshooting
-➡️ [View Project](Projects/Network-Configuration)
 
-Cloud Infrastructure Lab:
+Cloud Infrastructure Lab:➡️ [View Project](Projects/Cloud-Labs)
 - Deployed virtual machines in Azure
 - Configured network security groups
 - Implemented identity access control
-➡️ [View Project](Projects/Cloud-Labs)
 
-Security Monitoring Lab:
+Security Monitoring Lab:➡️ [View Project](Projects/Security-Labs)
 - Captured packets using Wireshark
 - Identified suspicious traffic patterns
-➡️ [View Project](Projects/Security-Labs)
 
-Troubleshooting Case Studies:
+Troubleshooting Case Studies:➡️ [View Project](Projects/Troubleshooting-Case-Studies)  
 - Hardware and Software Troubleshooting
 - Network Troubleshooting
-➡️ [View Project](Projects/Troubleshooting-Case-Studies)  
 
 ## 🎓 Certifications
 See full list here ➡️ [Certifications](Certifications/certifications.md)
