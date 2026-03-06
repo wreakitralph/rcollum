@@ -46,7 +46,7 @@ Security Monitoring Lab:
 Troubleshooting Case Studies:
 - Hardware and Software Troubleshooting
 - Network Troubleshooting
-➡️ [View Project](Projects/Troubleshooting-Case-Studies)
+➡️ [View Project](Projects/Troubleshooting-Case-Studies)  
 
 ## 🎓 Certifications
 See full list here ➡️ [Certifications](Certifications/certifications.md)
