@@ -43,6 +43,11 @@ Security Monitoring Lab:
 - Identified suspicious traffic patterns
 ➡️ [View Project](Projects/Security-Labs)
 
+Troubleshooting Case Studies:
+- Hardware and Software Troubleshooting
+- Network Troubleshooting
+➡️ [View Project](Projects/Troubleshooting-Case-Studies)
+
 ## 🎓 Certifications
 See full list here ➡️ [Certifications](Certifications/certifications.md)
 
